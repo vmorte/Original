@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_home" android:icon="@mipmap/iconhome"
+            android:title="Home" />
+        <item android:id="@+id/nav_ligas" android:icon="@mipmap/icontrophy"
+            android:title="Ligas" />
+        <item android:id="@+id/nav_miequipo" android:icon="@mipmap/iconfootball"
+            android:title="Mi Equipo" />
+        <item android:id="@+id/nav_mercado" android:icon="@mipmap/iconmoney"
+            android:title="Mercado" />
+        <item android:id="@+id/nav_jornada" android:icon="@mipmap/iconcalendar"
+            android:title="Jornada" />
+        <item android:id="@+id/nav_jugadores" android:icon="@mipmap/iconpeople"
+            android:title="Jugadores" />
+        <item android:id="@+id/nav_cerrarsesion" android:icon="@mipmap/iconkey"
+            android:title="Cerrar Sesión" />
+    </group>
+
+</menu>
